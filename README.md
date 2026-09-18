@@ -52,7 +52,7 @@ Then build it like it's going live: draft replies, handle failure, and tell us w
 ## Rules, so there are no surprises
 
 - **AI assistants are allowed.** Use whatever helps. AI calls your *tool* makes go through our gateway
-  (`claude-haiku-4-5`, $5 budget, no streaming) and are logged.
+  (`claude-haiku-4-5`, $3 budget, no streaming) and are logged.
 - **The grader shows half the answer key.** Every `grade` scores you against a public half. Your final score
   uses a hidden half. Tuning to the public score won't help — building something that generalises will.
 - **40 grade runs, 30 seconds apart.** Commit before you grade — each run records your commit.
